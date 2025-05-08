@@ -1,0 +1,1 @@
+# smart-iot-based-smoke-detection-with-automated-sprinkler-activation
